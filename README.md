@@ -1,0 +1,1 @@
+Self-organizing map implementation with go. The repo contains source code as well as compiled binary. Get started by running "som run -h"
